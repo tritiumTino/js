@@ -1,0 +1,6 @@
+.message {
+    opacity: 0;
+    transition: 3s;
+    background-color: cornflowerblue;
+    width: 400px;
+}
